@@ -16,7 +16,7 @@
 
 ## 截图展示
 
-![主界面截图](docs/screenshots/main_ui.png)
+![excel模版](docs/excel模版.png)
 
 ## 安装与使用
 
