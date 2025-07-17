@@ -52,16 +52,13 @@ python -m venv myvenv           # 创建虚拟环境
 ```bash
 pip install -r requirements.txt
 ```
-（如果你的项目没有 `requirements.txt`，你可以手动列出依赖，比如 `pip install flask numpy pandas`）
 
 ### 4. 运行项目
-根据你的项目，运行主程序或启动服务。例如：
+
 ```bash
-python main.py
+python .\ze_frame.py
 ```
-或
-```bash
-flask run
+
 ```
 
 ### 5. 退出虚拟环境（可选）
