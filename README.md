@@ -104,5 +104,12 @@ pip install -r requirements.txt
 python .\ze_frame.py
 ```
 
-```
+
+## 现状
+
+ze_frame.py可以运行，ze_frame_video.py代码逻辑基本完善，虚拟环境包依赖冲突尚未解决。
+目前未接入大模型结合语音文稿和资料表格进行填表。
+
+
+
 
