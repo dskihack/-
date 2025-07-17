@@ -107,7 +107,7 @@ python .\ze_frame.py
 
 ## 现状
 
-ze_frame.py可以运行，ze_frame_video.py代码逻辑基本完善，虚拟环境包依赖冲突尚未解决。
+ze_frame.py可以运行，提供ui和表格解析功能，ze_frame_video.py接入语音识别api功能，代码逻辑基本完善，虚拟环境包依赖冲突尚未解决。
 目前未接入大模型结合语音文稿和资料表格进行填表。
 
 
